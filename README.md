@@ -1,5 +1,11 @@
 # Innovation
 Strategic Information over the world
+ - strategic elements
+ - policy over the world
+ - legislation
+
+
+
 
 (Nuclear) Thermal-Hydraulics
 
@@ -11,9 +17,3 @@ Application
 
 Artificial Intellgence
  - strategy implementing into nuclear fields
-
-
-Strategy
- - strategic elements
- - policy over the world
- - legislation
